@@ -60,7 +60,7 @@ function App() {
           onPoseComplete={() => setShowBalloons(true)}
           style={{ zIndex: 1000}}
         >
-          Congratulations Beth!
+          Happy Graduation Beth!
         </Header>
       </div>
       {balloons}
